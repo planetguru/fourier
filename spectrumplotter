@@ -1,0 +1,7 @@
+#!/usr/bin/env gnuplot
+set datafile commentschars ";"
+
+set terminal svg
+set output "test.svg"
+
+plot "spectrum.csv" using 1:2 with lines
