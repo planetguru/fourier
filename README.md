@@ -1,5 +1,5 @@
 # fourier
-## Generate a spectral graph form a wav file.
+## Generate a spectral graph from a wav file.
 This borrows heavily from the documentation at these links:
 http://www.jot.fm/issues/issue_2009_05/column2.pdf
 http://www.jot.fm/issues/issue_2009_07/column2.pdf
